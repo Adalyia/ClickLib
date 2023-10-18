@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <Authors>daemitus</Authors>
+    <Authors>daemitus, Adalyia</Authors>
     <Company>-</Company>
     <Version>1.2.0.2</Version>
     <Description></Description>
     <Copyright></Copyright>
-    <PackageProjectUrl>https://github.com/daemitus/ClickLib</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/Adalyia/ClickLib</PackageProjectUrl>
   </PropertyGroup>
 
   <PropertyGroup>
